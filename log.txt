@@ -1,0 +1,3 @@
+select * from student;
+insert into stdenrt where value =10;
+
